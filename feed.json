@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://mehmetgokkaya.github.io/test",
+    "feed_url": "https://mehmetgokkaya.github.io/test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://mehmetgokkaya.github.io/test/test.html",
+            "url": "https://mehmetgokkaya.github.io/test/test.html",
+            "title": "test",
+            "summary": "test",
+            "content_html": "test",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-16T18:12:40+03:00",
+            "date_modified": "2019-12-16T18:18:15+03:00"
+        }
+    ]
+}
