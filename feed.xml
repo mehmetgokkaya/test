@@ -3,12 +3,32 @@
     <title>test</title>
     <link href="https://mehmetgokkaya.github.io/test/feed.xml" rel="self" />
     <link href="https://mehmetgokkaya.github.io/test" />
-    <updated>2019-12-16T18:24:12+03:00</updated>
+    <updated>2019-12-16T18:27:50+03:00</updated>
     <author>
         <name>test</name>
     </author>
     <id>https://mehmetgokkaya.github.io/test</id>
 
+    <entry>
+        <title>testestset</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://mehmetgokkaya.github.io/test/testestset.html"/>
+        <id>https://mehmetgokkaya.github.io/test/testestset.html</id>
+
+        <updated>2019-12-16T18:27:45+03:00</updated>
+            <summary>
+                <![CDATA[
+                    testsetettest
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                testsetettest<img class="post__image post__image--full" src="https://mehmetgokkaya.github.io/test/media/posts/2/botanika-bueyuek.png" alt="test" width="779" height="238">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>
@@ -17,15 +37,17 @@
         <link href="https://mehmetgokkaya.github.io/test/test.html"/>
         <id>https://mehmetgokkaya.github.io/test/test.html</id>
 
-        <updated>2019-12-16T18:18:15+03:00</updated>
+        <updated>2019-12-16T18:27:20+03:00</updated>
             <summary>
                 <![CDATA[
-                    test
+                     test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                test
+                <p><img class="post__image post__image--full" src="https://mehmetgokkaya.github.io/test/media/posts/1/1505816697.jpg" alt="test" width="512" height="512"></p>
+<p> </p>
+<p>test</p>
             ]]>
         </content>
     </entry>
